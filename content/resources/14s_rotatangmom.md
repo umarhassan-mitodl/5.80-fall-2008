@@ -6,6 +6,8 @@ description: Lecture supplement on rotation and angular momenta, matrix elements
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/a392a8623f16a76fb830e85c115e7023_14s_rotatangmom.pdf
 file_size: 193823
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

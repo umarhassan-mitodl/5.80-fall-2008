@@ -5,6 +5,8 @@ description: Lecture supplement on anharmonic oscillators, vibration-rotation in
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/0ce088dd609842e73d57535fb994699c_03s_anoscvibrot.pdf
 file_size: 312909
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

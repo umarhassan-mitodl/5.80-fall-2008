@@ -32,6 +32,7 @@
     "website": "5-80-small-molecule-spectroscopy-and-dynamics-fall-2008"
   },
   "course_title": "Small-Molecule Spectroscopy and Dynamics",
+  "hide_download": true,
   "course_description": "The goal of this course is to illustrate the spectroscopy of small molecules in the gas phase: quantum mechanical effective Hamiltonian models for rotational, vibrational, and electronic structure; transition selection rules and relative intensities; diagnostic patterns and experimental methods for the assignment of non-textbook spectra; breakdown of the Born-Oppenheimer approximation (spectroscopic perturbations); the stationary phase approximation; nondegenerate and quasidegenerate perturbation theory (van Vleck transformation); qualitative molecular orbital theory (Walsh diagrams); the notation of atomic and molecular spectroscopy.\n",
   "department_numbers": [
     "5"
@@ -42,6 +43,7 @@
     "content": "346b43be-f38b-2516-d64a-786e9eb89aab",
     "website": "5-80-small-molecule-spectroscopy-and-dynamics-fall-2008"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams",

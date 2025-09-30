@@ -6,6 +6,8 @@ description: Lecture supplement on spectroscopic notation, good quantum numbers,
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/38a08c1f8cecd5173600018cd5abfd09_01s_transmxel.pdf
 file_size: 279068
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

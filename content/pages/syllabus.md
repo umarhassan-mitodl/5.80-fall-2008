@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provides the course description and information
   on meeting times and textbooks.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -41,7 +43,7 @@ Textbooks
 
 Bernath, P. F. _Spectra of Atoms and Molecules_. New York, NY: Oxford University Press, 1995. ISBN: 9780195075984.
 
-Hougen, J. T. "{{% resource_link "06a4ab9f-5994-48fc-ade6-197bdd9cb17c" "NBS Monograph 115" %}}." A version of "NBS Monograph 115" is available online through the National Institute of Standards and Technology.
+Hougen, J. T. "[NBS Monograph 115](http://www.physics.nist.gov/Pubs/Mono115/contents.html)." A version of "NBS Monograph 115" is available online through the National Institute of Standards and Technology.
 
 Wilson, E. B., J. C. Decius, and P. C. Cross. _Molecular Vibrations_. New York, NY: McGraw-Hill, 1955.
 

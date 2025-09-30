@@ -5,6 +5,8 @@ description: Thumbnail image accompanying a video lecture on small-molecule spec
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/4a5182568592678b32608169d6eb24a5_mit5_80f08lec36_th.jpg
 file_size: 4811
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -6,6 +6,8 @@ description: "Lecture supplement on a model for the perturbations and fine struc
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/10e3c54343158a33b89a783f7e1e1ed6_18s_analpertb.pdf
 file_size: 271066
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
