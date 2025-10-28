@@ -4,8 +4,6 @@ description: Solutions to an exam on small-molecule spectroscopy and dynamics.
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/be2db2cbe77a7575953ae131bc8a80ef_exam1ans_1976.pdf
 file_size: 160671
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

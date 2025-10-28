@@ -5,8 +5,6 @@ description: "Lecture supplement on second-order effects: centrifugal distortion
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/289601013b8b26bc574d3039bdc905f9_19s_secndordreff.pdf
 file_size: 212419
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

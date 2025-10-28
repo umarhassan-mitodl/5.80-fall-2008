@@ -6,8 +6,6 @@ description: "Problem set on small-molecule spectroscopy and dynamics, non-text 
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/ccafadd44eca24c237b44d43af07e1df_02psetsp94.pdf
 file_size: 620399
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -6,8 +6,6 @@ description: Lecture supplement on matrix solution of harmonic oscillator proble
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/2fae98399e7b7de5773c3d3eedb5fa22_02s_mtxsol.pdf
 file_size: 205860
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

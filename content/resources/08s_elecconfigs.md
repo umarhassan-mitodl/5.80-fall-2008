@@ -5,8 +5,6 @@ description: Lecture supplement containing excerpts from The Spectra and Dynamic
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/b206c9fbd9d0704b35cff57f9be569e5_08s_elecconfigs.pdf
 file_size: 901410
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides problem sets on small-molecule spectroscopy and
   dynamics, solutions to selected problem sets, and supplemental resources.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

@@ -6,8 +6,6 @@ description: "Lecture supplement on the energy level structure of 2\u03A0 and 2\
 file: /courses/5-80-small-molecule-spectroscopy-and-dynamics-fall-2008/97ef77089c1a1634f213e47af9204ad9_17s_engylvlstrctr.pdf
 file_size: 261179
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
